@@ -1,6 +1,8 @@
 # Demand-Prediction-for-Public-Transport
 Traffic Jam: Predicting People's Movement into Nairobi
 
+This is the Capstone project which is a part of my Data Science training at AlmaBetter.
+
 Nairobi_Transport_System
 
 # Description of the Problem
